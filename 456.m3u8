@@ -1,0 +1,132 @@
+#EXTM3U x-tvg-url="https://agit.ai/239144498/demo/raw/branch/master/4gtvchannel.xml"
+
+#EXTINF:-1, tvg-chno="17", tvg-id="4gtv-live086", tvg-name="TVBS精采台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live086_mobile.png", group-title="综合,戏剧、电影与纪录片",TVBS精采台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live086&hd=720
+#EXTINF:-1, tvg-chno="30", tvg-id="4gtv-live030", tvg-name="LiveABC互动英语频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live030_mobile.png", group-title="儿童与青少年",LiveABC互动英语频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live030&hd=720
+#EXTINF:-1, tvg-chno="31", tvg-id="4gtv-4gtv018", tvg-name="达文西频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv018_mobile.png", group-title="儿童与青少年",达文西频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv018&hd=720
+#EXTINF:-1, tvg-chno="32", tvg-id="litv-longturn20", tvg-name="ELTV生活英语台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-longturn20_mobile.png", group-title="儿童与青少年",ELTV生活英语台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn20&hd=720
+#EXTINF:-1, tvg-chno="33", tvg-id="4gtv-live032", tvg-name="Nick Jr. 儿童频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live032_mobile.png", group-title="儿童与青少年",Nick Jr. 儿童频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live032&hd=720
+#EXTINF:-1, tvg-chno="34", tvg-id="4gtv-live105", tvg-name="尼克儿童频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live105_mobile.png", group-title="儿童与青少年",尼克儿童频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live105&hd=720
+#EXTINF:-1, tvg-chno="36", tvg-id="4gtv-4gtv044", tvg-name="靖天卡通台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv044_mobile.png", group-title="儿童与青少年",靖天卡通台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv044&hd=720
+#EXTINF:-1, tvg-chno="37", tvg-id="4gtv-4gtv057", tvg-name="靖洋卡通Nice Bingo", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv057_mobile.png", group-title="儿童与青少年",靖洋卡通Nice Bingo
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv057&hd=720
+#EXTINF:-1, tvg-chno="38", tvg-id="litv-ftv15", tvg-name="i-Fun动漫台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-ftv15_mobile.png", group-title="儿童与青少年",i-Fun动漫台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-ftv15&hd=720
+#EXTINF:-1, tvg-chno="42", tvg-id="4gtv-live107", tvg-name="MOMO亲子台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live107_mobile.png", group-title="儿童与青少年",MOMO亲子台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live107&hd=720
+#EXTINF:-1, tvg-chno="44", tvg-id="4gtv-live205", tvg-name="CN卡通", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live205_mobile.png", group-title="儿童与青少年",CN卡通
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live205&hd=720
+#EXTINF:-1, tvg-chno="71", tvg-id="4gtv-4gtv006", tvg-name="猪哥亮歌厅秀", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv006_mobile.png", group-title="音乐综艺",猪哥亮歌厅秀
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv006&hd=720
+#EXTINF:-1, tvg-chno="72", tvg-id="4gtv-4gtv062", tvg-name="靖天育乐台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv062_mobile.png", group-title="音乐综艺",靖天育乐台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv062&hd=720
+#EXTINF:-1, tvg-chno="73", tvg-id="4gtv-4gtv063", tvg-name="KLT-靖天国际台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv063_mobile.png", group-title="音乐综艺",KLT-靖天国际台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv063&hd=720
+#EXTINF:-1, tvg-chno="74", tvg-id="4gtv-4gtv054", tvg-name="Nice TV 靖天欢乐台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv054_mobile.png", group-title="音乐综艺",Nice TV 靖天欢乐台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv054&hd=720
+#EXTINF:-1, tvg-chno="77", tvg-id="4gtv-4gtv068", tvg-name="TVBS欢乐台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv068_mobile.png", group-title="音乐综艺",TVBS欢乐台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv068&hd=720
+#EXTINF:-1, tvg-chno="81", tvg-id="4gtv-live029", tvg-name="Lifetime 娱乐频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live029_mobile.png", group-title="音乐综艺",Lifetime 娱乐频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live029&hd=720
+#EXTINF:-1, tvg-chno="82", tvg-id="4gtv-live031", tvg-name="电影原声台CMusic", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live031_mobile.png", group-title="音乐综艺",电影原声台CMusic
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live031&hd=720
+#EXTINF:-1, tvg-chno="83", tvg-id="4gtv-4gtv082", tvg-name="TRACE Urban", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv082_mobile.png", group-title="音乐综艺",TRACE Urban
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv082&hd=720
+#EXTINF:-1, tvg-chno="84", tvg-id="4gtv-live025", tvg-name="MTV Live HD 音乐频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live025_mobile.png", group-title="音乐综艺",MTV Live HD 音乐频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live025&hd=720
+#EXTINF:-1, tvg-chno="86", tvg-id="4gtv-4gtv083", tvg-name="Mezzo Live HD", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv083_mobile.png", group-title="音乐综艺",Mezzo Live HD
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv083&hd=720
+#EXTINF:-1, tvg-chno="87", tvg-id="4gtv-4gtv059", tvg-name="CLASSICA 古典乐", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv059_mobile.png", group-title="音乐综艺",CLASSICA 古典乐
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv059&hd=720
+#EXTINF:-1, tvg-chno="97", tvg-id="litv-longturn05", tvg-name="博斯高球台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-longturn05_mobile.png", group-title="运动休闲",博斯高球台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn05&hd=720
+#EXTINF:-1, tvg-chno="99", tvg-id="litv-longturn07", tvg-name="博斯运动一台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-longturn07_mobile.png", group-title="运动休闲",博斯运动一台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn07&hd=720
+#EXTINF:-1, tvg-chno="100", tvg-id="litv-longturn10", tvg-name="博斯无限台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-longturn10_mobile.png", group-title="运动休闲",博斯无限台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn10&hd=720
+#EXTINF:-1, tvg-chno="101", tvg-id="litv-longturn09", tvg-name="博斯网球台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-longturn09_mobile.png", group-title="运动休闲",博斯网球台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn09&hd=720
+#EXTINF:-1, tvg-chno="104", tvg-id="4gtv-4gtv077", tvg-name="TRACE Sport Stars", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv077_mobile.png", group-title="运动休闲",TRACE Sport Stars
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv077&hd=720
+#EXTINF:-1, tvg-chno="105", tvg-id="4gtv-4gtv101", tvg-name="智林体育台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv101_mobile.png", group-title="运动休闲",智林体育台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv101&hd=720
+#EXTINF:-1, tvg-chno="106", tvg-id="4gtv-4gtv014", tvg-name="时尚运动X", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv014_mobile.png", group-title="运动休闲",时尚运动X
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv014&hd=720
+#EXTINF:-1, tvg-chno="107", tvg-id="4gtv-live201", tvg-name="车迷TV", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live201_mobile.png", group-title="运动休闲",车迷TV
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live201&hd=720
+#EXTINF:-1, tvg-chno="108", tvg-id="4gtv-4gtv053", tvg-name="GINX Esports TV", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv053_mobile.png", group-title="运动休闲",GINX Esports TV
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv053&hd=720
+#EXTINF:-1, tvg-chno="110", tvg-id="4gtv-live110", tvg-name="Pet Club TV", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live110_mobile.png", group-title="运动休闲",Pet Club TV
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live110&hd=720
+#EXTINF:-1, tvg-chno="112", tvg-id="4gtv-live012", tvg-name="滚动力rollor", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live012_mobile.png", group-title="生活旅游时尚",滚动力rollor
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live012&hd=720
+#EXTINF:-1, tvg-chno="113", tvg-id="litv-longturn17", tvg-name="亚洲旅游台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-longturn17_mobile.png", group-title="生活旅游时尚",亚洲旅游台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn17&hd=720
+#EXTINF:-1, tvg-chno="115", tvg-id="4gtv-live206", tvg-name="幸福空间居家台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live206_mobile.png", group-title="生活旅游时尚",幸福空间居家台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live206&hd=720
+#EXTINF:-1, tvg-chno="116", tvg-id="4gtv-live208", tvg-name="Love Nature", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live208_mobile.png", group-title="生活旅游时尚",Love Nature
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live208&hd=720
+#EXTINF:-1, tvg-chno="117", tvg-id="4gtv-live026", tvg-name="History 历史频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live026_mobile.png", group-title="生活旅游时尚",History 历史频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live026&hd=720
+#EXTINF:-1, tvg-chno="119", tvg-id="4gtv-live088", tvg-name="Smithsonian Channel", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live088_mobile.png", group-title="生活旅游时尚",Smithsonian Channel
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live088&hd=720
+#EXTINF:-1, tvg-chno="120", tvg-id="4gtv-live120", tvg-name="爱尔达生活旅游台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live120_mobile.png", group-title="生活旅游时尚",爱尔达生活旅游台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live120&hd=720
+#EXTINF:-1, tvg-chno="121", tvg-id="4gtv-live121", tvg-name="LUXE TV Channel", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live121_mobile.png", group-title="生活旅游时尚",LUXE TV Channel
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live121&hd=720
+#EXTINF:-1, tvg-chno="122", tvg-id="4gtv-live122", tvg-name="TV5MONDE STYLE HD 生活时尚", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live122_mobile.png", group-title="生活旅游时尚",TV5MONDE STYLE HD 生活时尚
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live122&hd=720
+#EXTINF:-1, tvg-chno="123", tvg-id="4gtv-live123", tvg-name="中天美食旅游", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live123_mobile.png", group-title="生活旅游时尚",中天美食旅游
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live123&hd=720
+#EXTINF:-1, tvg-chno="125", tvg-id="4gtv-4gtv042", tvg-name="公视戏剧", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv042_mobile.png", group-title="戏剧、电影与纪录片",公视戏剧
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv042&hd=720
+#EXTINF:-1, tvg-chno="126", tvg-id="litv-ftv09", tvg-name="民视影剧台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-ftv09_mobile.png", group-title="戏剧、电影与纪录片",民视影剧台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-ftv09&hd=720
+#EXTINF:-1, tvg-chno="127", tvg-id="litv-longturn18", tvg-name="龙华戏剧台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-longturn18_mobile.png", group-title="戏剧、电影与纪录片",龙华戏剧台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn18&hd=720
+#EXTINF:-1, tvg-chno="128", tvg-id="4gtv-live620", tvg-name="HITS频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live620_mobile.png", group-title="戏剧、电影与纪录片",HITS频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live620&hd=720
+#EXTINF:-1, tvg-chno="130", tvg-id="4gtv-4gtv034", tvg-name="八大精彩台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv034_mobile.png", group-title="戏剧、电影与纪录片",八大精彩台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv034&hd=720
+#EXTINF:-1, tvg-chno="132", tvg-id="4gtv-4gtv058", tvg-name="靖天戏剧台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv058_mobile.png", group-title="戏剧、电影与纪录片",靖天戏剧台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv058&hd=720
+#EXTINF:-1, tvg-chno="133", tvg-id="4gtv-4gtv045", tvg-name="靖洋戏剧台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv045_mobile.png", group-title="戏剧、电影与纪录片",靖洋戏剧台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv045&hd=720
+#EXTINF:-1, tvg-chno="134", tvg-id="4gtv-live027", tvg-name="CI 罪案侦查频道", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live027_mobile.png", group-title="生活旅游时尚",CI 罪案侦查频道
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live027&hd=720
+#EXTINF:-1, tvg-chno="137", tvg-id="4gtv-live144", tvg-name="金光布袋戏", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live144_mobile.png", group-title="戏剧、电影与纪录片",金光布袋戏
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live144&hd=720
+#EXTINF:-1, tvg-chno="145", tvg-id="4gtv-4gtv049", tvg-name="采昌影剧台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv049_mobile.png", group-title="戏剧、电影与纪录片",采昌影剧台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv049&hd=720
+#EXTINF:-1, tvg-chno="146", tvg-id="4gtv-4gtv055", tvg-name="靖天映画", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv055_mobile.png", group-title="戏剧、电影与纪录片",靖天映画
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv055&hd=720
+#EXTINF:-1, tvg-chno="147", tvg-id="4gtv-4gtv061", tvg-name="靖天电影台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv061_mobile.png", group-title="戏剧、电影与纪录片",靖天电影台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv061&hd=720
+#EXTINF:-1, tvg-chno="148", tvg-id="litv-longturn03", tvg-name="龙华电影台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_litv-longturn03_mobile.png", group-title="戏剧、电影与纪录片",龙华电影台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn03&hd=720
+#EXTINF:-1, tvg-chno="152", tvg-id="4gtv-4gtv011", tvg-name="影迷数位电影台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv011_mobile.png", group-title="戏剧、电影与纪录片",影迷数位电影台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv011&hd=720
+#EXTINF:-1, tvg-chno="153", tvg-id="4gtv-4gtv017", tvg-name="amc最爱电影", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv017_mobile.png", group-title="戏剧、电影与纪录片",amc最爱电影
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv017&hd=720
+#EXTINF:-1, tvg-chno="154", tvg-id="4gtv-live069", tvg-name="CinemaWorld", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live069_mobile.png", group-title="戏剧、电影与纪录片",CinemaWorld
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live069&hd=720
+#EXTINF:-1, tvg-chno="155", tvg-id="4gtv-live155", tvg-name="CATCHPLAY Beyond", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live155_mobile.png", group-title="戏剧、电影与纪录片",CATCHPLAY Beyond
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live155&hd=720
+#EXTINF:-1, tvg-chno="156", tvg-id="4gtv-4gtv076", tvg-name="CATCHPLAY电影台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-4gtv076_mobile.png", group-title="戏剧、电影与纪录片",CATCHPLAY电影台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-4gtv076&hd=720
+#EXTINF:-1, tvg-chno="157", tvg-id="4gtv-live157", tvg-name="My Cinema Europe HD 我的欧洲电影", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live157_mobile.png", group-title="戏剧、电影与纪录片",My Cinema Europe HD 我的欧洲电影
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live157&hd=720
+#EXTINF:-1, tvg-chno="201", tvg-id="4gtv-live021", tvg-name="经典电影台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live021_mobile.png", group-title="戏剧、电影与纪录片",经典电影台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live021&hd=720
+#EXTINF:-1, tvg-chno="202", tvg-id="4gtv-live022", tvg-name="经典卡通台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live022_mobile.png", group-title="儿童与青少年",经典卡通台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live022&hd=720
+#EXTINF:-1, tvg-chno="204", tvg-id="4gtv-live024", tvg-name="精选动漫台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live024_mobile.png", group-title="儿童与青少年",精选动漫台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live024&hd=720
+#EXTINF:-1, tvg-chno="205", tvg-id="4gtv-live005", tvg-name="华语戏剧台", tvg-logo="https://ik.imagekit.io/naihe/4gtv/mobile/logo_4gtv_4gtv-live005_mobile.png", group-title="戏剧、电影与纪录片",华语戏剧台
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=4gtv-live005&hd=720
